@@ -14,6 +14,9 @@
   title={LMR: Learning A Two-class Classifier for Mismatch Removal},
   author={Ma, Jiayi and Jiang, Xingyu and Jiang, Junjun and Zhao, Ji and Guo, Xiaojie},
   journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={8},
+  pages={4045--4059},
   year={2019},
   publisher={IEEE}
 }
